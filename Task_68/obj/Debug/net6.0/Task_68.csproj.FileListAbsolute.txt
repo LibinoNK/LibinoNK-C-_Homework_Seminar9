@@ -1,0 +1,15 @@
+/Users/libino/Desktop/Учеба/C#/Homework/Homework_9/Task_68/bin/Debug/net6.0/Task_68
+/Users/libino/Desktop/Учеба/C#/Homework/Homework_9/Task_68/bin/Debug/net6.0/Task_68.deps.json
+/Users/libino/Desktop/Учеба/C#/Homework/Homework_9/Task_68/bin/Debug/net6.0/Task_68.runtimeconfig.json
+/Users/libino/Desktop/Учеба/C#/Homework/Homework_9/Task_68/bin/Debug/net6.0/Task_68.dll
+/Users/libino/Desktop/Учеба/C#/Homework/Homework_9/Task_68/bin/Debug/net6.0/Task_68.pdb
+/Users/libino/Desktop/Учеба/C#/Homework/Homework_9/Task_68/obj/Debug/net6.0/Task_68.csproj.AssemblyReference.cache
+/Users/libino/Desktop/Учеба/C#/Homework/Homework_9/Task_68/obj/Debug/net6.0/Task_68.GeneratedMSBuildEditorConfig.editorconfig
+/Users/libino/Desktop/Учеба/C#/Homework/Homework_9/Task_68/obj/Debug/net6.0/Task_68.AssemblyInfoInputs.cache
+/Users/libino/Desktop/Учеба/C#/Homework/Homework_9/Task_68/obj/Debug/net6.0/Task_68.AssemblyInfo.cs
+/Users/libino/Desktop/Учеба/C#/Homework/Homework_9/Task_68/obj/Debug/net6.0/Task_68.csproj.CoreCompileInputs.cache
+/Users/libino/Desktop/Учеба/C#/Homework/Homework_9/Task_68/obj/Debug/net6.0/Task_68.dll
+/Users/libino/Desktop/Учеба/C#/Homework/Homework_9/Task_68/obj/Debug/net6.0/refint/Task_68.dll
+/Users/libino/Desktop/Учеба/C#/Homework/Homework_9/Task_68/obj/Debug/net6.0/Task_68.pdb
+/Users/libino/Desktop/Учеба/C#/Homework/Homework_9/Task_68/obj/Debug/net6.0/Task_68.genruntimeconfig.cache
+/Users/libino/Desktop/Учеба/C#/Homework/Homework_9/Task_68/obj/Debug/net6.0/ref/Task_68.dll
